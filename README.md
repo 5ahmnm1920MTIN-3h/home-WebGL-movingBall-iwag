@@ -28,7 +28,7 @@ WebGL, Reference Resolution 960x600
 * WebGL has to be installed
 
 ### Third party material: 
-* None
+[Leons Project](https://github.com/5ahmnm1920MTIN-3h/home-WebGL-movingBall-lschnaitl) was used as reference
 
 ### Project state: 
 100% completed
